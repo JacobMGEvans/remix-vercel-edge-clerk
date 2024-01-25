@@ -11,6 +11,7 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@clerk/remix": "4.0.0-beta-v5.20",
     "@remix-run/css-bundle": "^2.5.0",
     "@remix-run/node": "^2.5.0",
     "@remix-run/react": "^2.5.0",
@@ -20,7 +21,6 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@clerk/remix": "^3.1.15",
     "@remix-run/dev": "^2.5.0",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
